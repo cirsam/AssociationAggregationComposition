@@ -9,7 +9,6 @@
 
             return "Manager is using the swipe card"+manager.name;
 
-        }
-       
+        }    
     }
 }
